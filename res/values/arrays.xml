@@ -33,8 +33,9 @@
     -->
     <string-array name="tips">
         <!-- Tip: Where the launcher icon is and what it does. With icon. -->
-        <item>See all your apps.\n
-        Touch the Launcher icon. @drawable/all_apps</item>
+        <item>Welcome to Droid Concepts\n
+        I mean if your seeing this you know  \n
+        how to use the phone by now right?</item>
 
         <!-- Tip: Longpress in Launcher (all apps) to drag apps to the home screen. -->
         <item>Drag apps to your Home screen.\n
